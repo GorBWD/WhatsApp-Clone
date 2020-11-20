@@ -9,7 +9,7 @@
     "dev": "concurrently \"npm run server\" \"npm run client\""
   },
   "keywords": [],
-  "author": "",
+  "author": "Gor Sharmazanyan",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
